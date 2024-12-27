@@ -4,13 +4,21 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+My Notes App Development
 
-A few resources to get you started if this is your first Flutter project:
+My Notes App is a simple and intuitive note-taking application designed for users to easily create, manage, and organize their notes. This project demonstrates clean UI design, Flutter development practices, and efficient local data storage.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Add Notes: Create new notes with a title and description.
+
+Edit Notes: Update the content of existing notes.
+
+Delete Notes: Remove notes when no longer needed.
+
+Local Storage: Save notes using SQLite or SharedPreferences for offline access.
+
+Search Notes: Quickly find notes by keywords (future enhancement).
+
+Reminders: Set task reminders with notifications (future enhancement).
+
